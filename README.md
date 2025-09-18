@@ -2,7 +2,11 @@
 <h3 align="center">Data Science Student | SQL & Power BI Practitioner | Problem Solver</h3>
 
 - 📫 How to reach me **raghvendra6325@gmail.com**
-
+.element {
+  background-image: url('C:\Users\Lenovo\Downloads\a_man_a_focused_young_student_sitting (1).jpeg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/raghvendra8081" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="raghvendra8081" height="30" width="40" /></a>
