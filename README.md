@@ -2,7 +2,8 @@
 <h3 align="center">Data Science Student | SQL & Power BI Practitioner | Problem Solver</h3>
 
 - 📫 How to reach me **raghvendra6325@gmail.com**
-<img align="right"alt="coding"width="400"src=""C:\Users\Lenovo\Downloads\a_man_a_focused_young_student_sitting (1).jpeg"
+<img align="right" alt="coding" width="400" src="C:\Users\Lenovo\Downloads\a_man_a_focused_young_student_sitting (1).jpeg">
+
  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
