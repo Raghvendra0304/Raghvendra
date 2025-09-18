@@ -4,7 +4,7 @@
 - 📫 How to reach me: **raghvendra6325@gmail.com**
 
 <!-- Replace the image URL below with a valid online image link or your GitHub repo image path -->
-<img align="right" alt="coding" width="400" src=""C:\Users\Lenovo\Downloads\a_man_a_focused_young_student_sitting (1).jpeg"">
+<img align="right" alt="coding" width="400" src="C:\Users\Lenovo\Downloads\a_man_a_focused_young_student_sitting (1).jpeg">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
